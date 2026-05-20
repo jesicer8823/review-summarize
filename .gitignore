@@ -2,6 +2,11 @@
 .obsidian/
 00-项目改编
 00-项目改编/
+.codex
+.claude
+.codex/
+.claude/
+
 
 # Virtual environments
 .venv
